@@ -8,12 +8,12 @@
   "stack": "container",
   "env": {
     "DATABASE_URL": {
-      "description": "your mongodb database url",
+      "description": "mongodb://mongo:F65AE-A43GHGdGehEAGCbG22ChCb6EDf@monorail.proxy.rlwy.net:42148",
       "required": false,
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "Guru_2b425b12-9e8f-44f3-b7be-1d00e64d5687",
       "required": true,
       "value": ""
     },
